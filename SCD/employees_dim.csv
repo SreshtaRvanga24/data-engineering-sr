@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,department,job_title,location,salary,manager_id,status,last_updated
+E001,Priya,Sharma,priya.sharma@corp.com,Engineering,Software Engineer,Hyderabad,85000,E010,Active,2024-01-15
+E002,Ravi,Kumar,ravi.kumar@corp.com,Finance,Financial Analyst,Mumbai,72000,E011,Active,2024-02-01
+E003,Anita,Desai,anita.desai@corp.com,HR,HR Specialist,Bangalore,65000,E012,Active,2024-01-20
+E004,Suresh,Nair,suresh.nair@corp.com,Engineering,Senior Developer,Hyderabad,110000,E010,Active,2024-03-05
+E005,Meena,Iyer,meena.iyer@corp.com,Marketing,Marketing Manager,Chennai,95000,E013,Active,2024-01-10
+E006,Arjun,Patel,arjun.patel@corp.com,Sales,Sales Executive,Pune,60000,E014,Active,2024-02-18
+E007,Deepa,Menon,deepa.menon@corp.com,Engineering,DevOps Engineer,Hyderabad,90000,E010,Active,2024-03-12
+E008,Vikram,Singh,vikram.singh@corp.com,Finance,Senior Analyst,Delhi,88000,E011,Active,2024-01-30
+E009,Kavitha,Rao,kavitha.rao@corp.com,HR,HR Manager,Bangalore,105000,E012,Active,2024-02-25
+E010,Rajesh,Verma,rajesh.verma@corp.com,Engineering,Engineering Director,Hyderabad,160000,,Active,2023-11-01
