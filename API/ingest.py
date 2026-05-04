@@ -41,8 +41,6 @@ def get_data_from_api(url):
     except Exception as error:
         print("Could not get data! Error fetching data from endpoint:", error)
 
-import csv  # ← make sure this is at the top
-
 def insert_data_to_db(data, table_name):
     try:
         df = pd.DataFrame(data)
